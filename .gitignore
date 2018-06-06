@@ -4,5 +4,6 @@ npm-debug.log
 dist
 lib
 .nyc_output
+.idea
 coverage
 es
